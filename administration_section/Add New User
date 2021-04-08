@@ -1,0 +1,23 @@
+
+GO TO The Administration Section
+
+      > Click on "Add New User":
+
+      
+      > Enter the Username and Password
+      Note: The Password must be more than 8 characters.
+      
+      > Enter the Password again in the Password Confirmation field
+      
+      > SAVE
+      
+Another page will open automatically;
+      > Now enter the Personal info (first name, last name, etc)
+      
+      > Tick ALL the three fields (Active, Staff Status, Superuser)
+      
+      > CHOOSE only ONE choice in the GROUPS Section
+      
+      > DON'T TOUCH the User Permissions section - Leave it as it is.
+      
+      > SAVE
