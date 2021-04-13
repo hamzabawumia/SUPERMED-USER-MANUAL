@@ -1,6 +1,6 @@
 Click on Price List
 
-        > Select the Department where you want to edit the prices
+        > Select the Department where you want to edit prices
 
         > Select an item from the List 
 
@@ -8,6 +8,7 @@ Click on Price List
 
         > EDIT the price(s)
         
-        Note: At the Pharmacy, If you tick "Use Mark Up", the system will over write  the Selling Price with the Calculated Mark Up Price.
+                       Note: At the Pharmacy, 
+                       If you tick "Use Mark Up", the system will over write  the Selling Price with the Calculated Mark Up Price.
 
         > Save
