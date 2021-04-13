@@ -10,5 +10,6 @@ Click on Price List
         
                        Note: At the Pharmacy, 
                        If you tick "Use Mark Up", the system will over write  the Selling Price with the Calculated Mark Up Price.
+                       If you want to enter your own Selling Price, then untick the checkbox for "Use Mark Up".
 
         > Save
