@@ -1,11 +1,11 @@
-Click on Price List
+Click on Dispensary Drug List
 
-        > Select the Department where you want to edit the prices
-
-        > Select an item from the List 
-
-
+        > Select an item from the List (Only Authorized users can click and edit)
 
         > EDIT the price(s)
+        
+                       Note: At the Pharmacy, 
+                       If you tick "Use Mark Up", the system will over-write the Selling Price with the Calculated Mark Up Price.
+                       If you want to enter your own Selling Price, then untick the checkbox for "Use Mark Up".
 
         > Save
